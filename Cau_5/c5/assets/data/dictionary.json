@@ -1,0 +1,42 @@
+[
+  {
+    "word": "apple",
+    "meaning": "A round fruit with red, green, or yellow skin."
+  },
+  {
+    "word": "book",
+    "meaning": "A set of printed pages bound together."
+  },
+  {
+    "word": "computer",
+    "meaning": "An electronic device used to process data."
+  },
+  {
+    "word": "dictionary",
+    "meaning": "A reference book containing words and their meanings."
+  },
+  {
+    "word": "flutter",
+    "meaning": "An open-source UI toolkit by Google for building apps."
+  },
+  {
+    "word": "offline",
+    "meaning": "Not connected to the internet."
+  },
+  {
+    "word": "search",
+    "meaning": "To look for something carefully."
+  },
+  {
+    "word": "sqlite",
+    "meaning": "A lightweight relational database engine."
+  },
+  {
+    "word": "widget",
+    "meaning": "A basic building block of a Flutter user interface."
+  },
+  {
+    "word": "word",
+    "meaning": "A single distinct meaningful element of speech or writing."
+  }
+]
